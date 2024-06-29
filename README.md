@@ -19,8 +19,6 @@ This was my first time using low level c++, using registers and with multiple ha
 This project is not intended to be built and run as-is. It should only be used for inspiration and guidance.
 Additionally, please be aware that the infrared communication may not work consistently at all times.
 
-Here's the improved README with the additional "Small Demos" section:
-
 ## Small Demos
 
 ### Pre-Alpha Gameplay Loop Test
