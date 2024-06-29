@@ -1,0 +1,6 @@
+#ifndef KBS_POWERUP_BITMAPS_H
+#define KBS_POWERUP_BITMAPS_H
+
+
+
+#endif //KBS_POWERUP_BITMAPS_H
